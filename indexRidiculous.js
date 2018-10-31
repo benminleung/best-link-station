@@ -12,4 +12,4 @@ const points = [{ x: 0, y: 0 }, { x: 100, y: 100 }, { x: 15, y: 10 }, { x: 18, y
 
 points.forEach(point => console.log(printBest(getBestLinkStation(point, stations))))
 
-// This is the ridiculous version of index.js that I consider barley readable.
+// This is the ridiculous version of index.js that has the least lines but only barley readable.

@@ -24,7 +24,7 @@ Navigate to the repository via command line.
 
     $ cd best-link-station
 
-Run the following command to install all required packages
+The application can run without external packages. However, if you would like to run tests and have eslint working, run the following command to install all required packages
 
     $ npm install
 

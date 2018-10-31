@@ -11,5 +11,3 @@ const stations = [{ x: 0, y: 0, r: 10 }, { x: 20, y: 20, r: 5 }, { x: 10, y: 0, 
 const devices = [{ x: 0, y: 0 }, { x: 100, y: 100 }, { x: 15, y: 10 }, { x: 18, y: 18 }]
 
 devices.forEach(device => console.log(printBest(getBestLinkStation(device, stations))))
-
-// This is the ridiculous version of index.js that has the least lines but only barley readable.

@@ -1,4 +1,4 @@
-# PROJECT BLAH BLAH
+# Nordcloud assignment - Find the best link station for devices
 
 ## Requirements
 
